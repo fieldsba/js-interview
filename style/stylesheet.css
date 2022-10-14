@@ -1,0 +1,16 @@
+h1, h2, h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    margin: auto;
+    display: flex;
+    padding: 32px 64px;
+    font-size: 1.2em;
+}
+
+#play-btn:hover {
+    background-color: #A6F4FF;
+     border: 2px solid #37ABDF;
+}
